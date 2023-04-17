@@ -32,13 +32,6 @@
     <p align="center">
         Hackers use methods such as dictionary & brute force attacks to access into emails and accounts that their passwords has been leaked.
     Therefore you can run this program to check if your password has been compromised.
-    
-    
     <br />
-
       </p>
-  
-
-
-    
 </div>
