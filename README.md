@@ -4,10 +4,10 @@
     <img src="https://media.istockphoto.com/id/1306828000/vector/people-forgot-the-password-concept-of-forgotten-password-key-account-access-blocked-access.jpg?s=612x612&w=0&k=20&c=gaserTcTh2BvShFYCsz3ab1q0Gypqc-gLlkN1bE9AZw=" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Password Checker</h3>
+  <h3 align="center">Breach Shield</h3>
 
   <p align="center">
-    The Password Checker checks if a password has been leaked in previous data breaches using the Pwned Passwords API.
+    BreachShield checks if a password has been leaked in previous data breaches using the Pwned Passwords API.
     <br />
     <a href="https://haveibeenpwned.com/API/v3"><strong>Explore the API »</strong></a>
     <br />
@@ -23,7 +23,7 @@
   <h2 align="center"><a>Overview</a></h2>
 
   <p align="center">
-    The Password Checker checks if a password has been leaked in previous data breaches using the Pwned Passwords API. It takes a list of passwords as command line arguments and checks each password against the API to see if it has been leaked. If a password has been leaked, it displays a message indicating how many times it has been leaked and suggests that the user change the password. If a password hasn't been leaked, then it'll displays a message indicating that it is safe.
+   BreachShield checks if a password has been leaked in previous data breaches using the Pwned Passwords API. It takes a list of passwords as command line arguments and checks each password against the API to see if it has been leaked. If a password has been leaked, it displays a message indicating how many times it has been leaked and suggests that the user change the password. If a password hasn't been leaked, then it'll displays a message indicating that it is safe.
     <br />
         <br />
       </p>
