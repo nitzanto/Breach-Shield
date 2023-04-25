@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://media.istockphoto.com/id/1306828000/vector/people-forgot-the-password-concept-of-forgotten-password-key-account-access-blocked-access.jpg?s=612x612&w=0&k=20&c=gaserTcTh2BvShFYCsz3ab1q0Gypqc-gLlkN1bE9AZw=" alt="Logo" width="300" height="300">
+    <img src="https://i.imgur.com/6OI6Jwa.png" alt="Logo" width="300" height="300">
   </a>
 
   <h3 align="center">Breach Shield</h3>
